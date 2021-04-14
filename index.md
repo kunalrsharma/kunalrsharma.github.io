@@ -5,7 +5,7 @@ mathjax: true
 ## Short Bio
 <img src ="fullsizeoutput_6de.jpeg" width=300> 
 
-I am a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing.  
+I am a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing. The engineering side of my work involves writiing code to deploy models to production, working with various cloud frameworks and building ML platforms. 
 
 Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index theory (out of [Atiyah-Singer Index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)) which, briefly speaking, explores the interplay between analysis and topology. An excellent example of this relationship is [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem). In addition, I have also worked in Riemannian geometry and smooth dynamical systems. Both of the areas involve solving (class of)partial differential equations over a space with rich geometry. 
 
@@ -30,3 +30,7 @@ Feel free to reach out to me if these topics interest you and would like to expl
 - [Spark:An overview](Spark-an overview.pptx) A summary of of Spark's working based on my reading and professinal experience with it. (I took the liberty of borrowing pictures)  
 <!-- - [Graph Neural Networks](Graph-Neural-Networks.md) -->
 - [Topological analysis & Robotics](https://drive.google.com/file/d/1-P6EM6pJ-9WikEh7FXdLtDUC7U9JKKpQ/view?usp=sharing) This is a short note on interesting topological results, and outline of ideas in Robotics:The ideas on Robotics grew out my interest in studying the topology of configuration spaces of "mechanical" or "factory" robots. Working jointly with [Paul Loya](http://people.math.binghamton.edu/loya/) we found new examples of configuration spaces with rich topology. However, this project wasn't taken much further due to my developing interest in machine learning. Nevertheless, robotics continues to benefit greatly by borrowing ideas from Topology. 
+
+## Graph Neural Network papers
+- [Original] (https://ieeexplore.ieee.org/abstract/document/4700287) [Good overview] (https://arxiv.org/pdf/1901.00596.pdf), 
+- Graph Convolution networks: [Spectral approach by Bruna et al](https://arxiv.org/pdf/1312.6203.pdf), [GCN w/ Chebyshev polynomial approach](https://arxiv.org/pdf/1609.02907.pdf) and [Graph Wavelet network] (https://arxiv.org/abs/1904.07785) which replaces the Fourier transform with Wavelet transform to extend spectral GCNs.  
