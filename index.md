@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+mathjax: true
+---
 
-You can use the [editor on GitHub](https://github.com/kunalrsharma/kunalrsharma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Short Bio
+<img src ="fullsizeoutput_6de.jpeg" width=400> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Data Scientist wherein I build and deploy machine learning based solutions to interesting problems. My work has centered around problems in online-advertising, marketing and operational forecasting. As part of solution, I employ Deep learning (RNNs, CNNs), NLP and ML techniques along with cloud frameworks for deployment. Some of the problems I have worked on are ad-impression predictions, attribution, anomaly detection, causal inference and personalization in digital marketing.  
 
-### Markdown
+Previously, I obtained a PhD in Mathematics. Specifically, I worked in Index theory (out of [Atiyah-Singer Index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem)) which, briefly speaking, explores the interplay between analysis and topology. An excellent example of this relationship is [Gauss-Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem). In addition, I have also worked in Riemannian geometry and smooth dynamical systems. Both of the areas involve solving (class of)partial differential equations over a space with rich geometry. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In general, I maintain a strong interest in problems involving rich geometry. In machine learning, its fascinating to see applications of geometric techniques in areas of Topological data analysis, Geometric deep learning (Graph Convolution Networks, manifold learning) and and Knowledge graphs. 
 
-```markdown
-Syntax highlighted code block
+## Contact
+- Email: k{mylastname}.math@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kunalsharma13/) 
+- [GitHub](https://github.com/kunalrsharma/)
 
-# Header 1
-## Header 2
-### Header 3
+## Publications & Research interests
+- Stochastic approach to anomaly detection in large networks with edge attributes, Working. 
+- [Adiabatic limit of Calderon projector on manifold with cylindrical end](https://drive.google.com/file/d/1_rVddyiNyt9xT8dd3h7oyaj9SK0t_qEH/view?usp=sharing)
+- [Bounding topological entropy of geodesic flows of $$C^{(1, \alpha)}$$ Riemannian metric](https://drive.google.com/file/d/1Lbmt6jq3KHRCDvxXER8QVZTA7I2BBylo/view?usp=sharing)
 
-- Bulleted
-- List
+### Research Interests
+Machine learning/Deep learning on graphs (GNN,GCN etc) and its applications to Knowledge graphs, Anomaly detection and Spectral techniques. 
 
-1. Numbered
-2. List
+Feel free to reach out to me if these topics interest you and would like to explore a problem together.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kunalrsharma/kunalrsharma.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Expository writings
+- [Graph Neural Networks](Graph-Neural-Networks.md) 
+- [Topological analysis & Robotics](https://drive.google.com/file/d/1-P6EM6pJ-9WikEh7FXdLtDUC7U9JKKpQ/view?usp=sharing) This is a short note on interesting topological results, and outline of ideas in Robotics:The ideas on Robotics grew out my interest in studying the topology of configuration spaces of "mechanical" or "factory" robots. Working jointly with [Paul Loya](http://people.math.binghamton.edu/loya/) we found new examples of configuration spaces with rich topology. However, this project wasn't taken much further due to my developing interest in machine learning. Nevertheless, robotics continues to benefit greatly by borrowing ideas from Topology. 
