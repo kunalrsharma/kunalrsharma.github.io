@@ -33,5 +33,8 @@ Feel free to reach out to me if these topics interest you and would like to expl
 
 ## Graph Neural Network papers
 There are several approaches to GNNs but I focus here on spectral approaches, especially in GCNs. 
-- [Relatively early paper on GNN applying fixed point theorems](https://persagen.com/files/misc/scarselli2009graph.pdf), [Good overview](https://arxiv.org/pdf/1901.00596.pdf), 
-- **Graph Convolution networks**: [Spectral approach by Bruna et al](https://arxiv.org/pdf/1312.6203.pdf), [GCN w/ Chebyshev polynomial approach](https://arxiv.org/pdf/1609.02907.pdf) and [Graph Wavelet network](https://arxiv.org/abs/1904.07785) which replaces the Fourier transform with Wavelet transform to extend spectral GCNs.  
+- [Graph Neural Network model](https://persagen.com/files/misc/scarselli2009graph.pdf) A relatively early paper on GNN applying fixed point theorems.
+- [Good overview](https://arxiv.org/pdf/1901.00596.pdf)
+- [Spectral approach by Bruna et al](https://arxiv.org/pdf/1312.6203.pdf) This extends CNN to graph data by defining convolutions on spectrum of Laplacian. 
+- [GCN w/ Chebyshev polynomial approach](https://arxiv.org/pdf/1609.02907.pdf)
+- [Graph Wavelet network](https://arxiv.org/abs/1904.07785) which replaces the Fourier transform with Wavelet transform to extend spectral GCNs.  
